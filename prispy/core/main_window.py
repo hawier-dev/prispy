@@ -1,7 +1,7 @@
 import pygame
 
-from gui_module.enums import CursorType
-from gui_module.styles import Theme
+from prispy.enums import CursorType
+from prispy.styles import Theme
 
 
 class MainWindow:

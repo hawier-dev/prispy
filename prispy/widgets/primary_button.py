@@ -1,9 +1,9 @@
 import pygame
 
-from gui_module.core import Signal
-from gui_module.enums import CursorType
-from gui_module.styles import ButtonStyle
-from gui_module.widgets import Widget
+from prispy.core import Signal
+from prispy.enums import CursorType
+from prispy.styles import ButtonStyle
+from prispy.widgets import Widget
 
 
 class PrimaryButton(Widget):

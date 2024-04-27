@@ -1,6 +1,6 @@
 import pygame
 
-from gui_module.styles import ButtonStyle
+from prispy.styles import ButtonStyle
 
 
 class Theme:

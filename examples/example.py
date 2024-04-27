@@ -1,6 +1,6 @@
-from gui_module.core import MainWindow
-from gui_module.layouts import VerticalLayout
-from gui_module.widgets import PrimaryButton
+from prispy.core import MainWindow
+from prispy.layouts import VerticalLayout
+from prispy.widgets import PrimaryButton
 
 window = MainWindow("Example", (800, 600))
 window.set_current_theme("dark")

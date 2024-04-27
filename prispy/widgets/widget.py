@@ -1,7 +1,7 @@
 import pygame
 
-from gui_module.core import Signal
-from gui_module.enums import CursorType
+from prispy.core import Signal
+from prispy.enums import CursorType
 
 
 class Widget:

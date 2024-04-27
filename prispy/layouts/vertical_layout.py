@@ -1,4 +1,4 @@
-from gui_module.layouts.layout import Layout
+from prispy.layouts.layout import Layout
 
 
 class VerticalLayout(Layout):
